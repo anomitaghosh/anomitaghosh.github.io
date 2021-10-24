@@ -10,6 +10,6 @@ layout: secondary_pages
 <br>
 <br>
 
-<!-- <h3 align="center">Please find my CV <a href="./assets/AnomitaGhoshCV.pdf">here</a>.</h3> -->
+ <h3 align="center">Please find my CV <a href="./assets/abcdAnomitaGhoshCV.pdf">here</a>.</h3> 
 
 </p>
