@@ -3,7 +3,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #000;
-  background: rgb(185, 185, 185);
+  background: #fff;
   font-size: 18px;
   padding: 50px;
   -webkit-font-smoothing: antialiased;
@@ -25,11 +25,11 @@ h2, h4{
 }
 
 .a1 {
-  color: #01cad1;
+  color: #018fb3;
 }
 
 a{
-  color: #01cad1;
+  color: #018fb3;
 }
 
 
@@ -54,15 +54,15 @@ a{
 
 .navbar-color{
     background-color: #13294b;;
-    border-color: #01cad1;
-    font-color: #01cad1;
-    color: #01cad1;
+    border-color: #018fb3;
+    font-color: #018fb3;
+    color: #018fb3;
 }
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  text-decoration: #01cad1;
-  background-color: #01cad1;
+  text-decoration: #018fb3;
+  background-color: #018fb3;
 }
 
 .navbar-inverse .navbar-brand {
@@ -89,10 +89,10 @@ a{
 }
 
 .navbar .navbar-nav > li > a:hover {
-  color: #01cad1;
+  color: #018fb3;
 }
 
-.collapse, .navbar-collapse{ color: #01cad1; }
+.collapse, .navbar-collapse{ color: #018fb3; }
 
 .img-portfolio {
     margin-bottom: 30px;
