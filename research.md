@@ -2,7 +2,7 @@
 layout: secondary_pages
 ---
 
-### **"Making distressed areas more desirable: Longitudinal evidence from a local supply-side reform for physicians" (Job market paper)**
+#### **"Making distressed areas more desirable: Longitudinal evidence from a local supply-side reform for physicians" (Job market paper)**
 
 <br>
 
@@ -10,7 +10,7 @@ Do temporary positive labor supply programs cause physicians to move to and stay
 
 <hr>
 
-### **"Intended and unintended effects of state tuition benefits to undocumented students: Institution and individual-level evidence"**  
+#### **"Intended and unintended effects of state tuition benefits to undocumented students: Institution and individual-level evidence"**  
 
 <br>
 
@@ -19,14 +19,14 @@ in these policies in a difference-in-differences framework and comparing within 
 
 <hr>
 
-### **“Are female leaders good for education? Evidence from India: A comment”**
+#### **“Are female leaders good for education? Evidence from India: A comment”**
 
 <br>
 
 This comment makes two main observations about Clots-Figueras’(2012) paper on female leaders and education in India. I mainly use the Employment-Unemployment schedule of the 55th round of National Sample Survey data and reports published by the Election Commission of India for these comments. First, after correcting for multiple outcomes, the presence of female politicians does not seem to have a significant effect on the fraction of villages having primary schools in urban areas. More specifically, I control for the False Discovery Rate using the procedures of Benjamini and Hochberg (1995) and Benjamini, Krieger and Yekutieli(2006). My findings reveal that, although increasing female leadership does improve primary educational attainment in urban areas, it may not be through the channel of constructing more primary schools in those areas, as suggested by the author. Second, to assess the credibility of the regression discontinuity design in section D of the paper, I apply the newly developed and more powerful Canay Kamat (2018) permutation test for the null hypothesis that the distribution of baseline covariates is continuous at the cutoff. I demonstrate that the continuity of the distribution of baseline covariates is violated at the cutoff for a majority of covariates in urban areas. This provides suggestive evidence that some features of the distribution of baseline covariates, other than the mean, may be discontinuous at the cutoff. Despite these two observations, the results in Clots-Figueras (2012) are largely robust to alternative specifications and strategies.
 
-## Selected Work in Progress
-### **“Spillover effects from short-duration strikes: Evidence using high frequency data”**
+### Selected Work in Progress
+#### **“Spillover effects from short-duration strikes: Evidence using high frequency data”**
 
 <br>
 
@@ -34,16 +34,16 @@ Work stoppage in the health care sector is a serious concern. It disrupts the ti
 
 <hr>
 
-### **"The role of recruitment committees in the selection of medical residents"**
+#### **"The role of recruitment committees in the selection of medical residents"**
 
 <br>
 
 Doctors and medical trainees of certain racial backgrounds - notably African American, Hispanic, American Indian and certain Asian subgroups- are under-represented in medicine relative to the larger population. This lack of racial equity is an important issue, given that, racial concordance between doctors and patients leads to improved communication and higher demand for preventive care (Alsan et al., 2019). Similarly, doctors from underrepresented minorities have a higher likelihood of serving underserved and uninsured populations (M. Komaromy et al, 1996). It has been suggested in the medical literature that a lack of minority faculty on resident selection committees is one of several factors contributing to lower racial equity among trainees. Consequently, many institutions are adding minority faculty to selection committees. In view of this, I examine whether an increased presence of these faculty on a recruitment committee improves the hiring probability of minority trainees, leveraging the sequential rollout of a plausibly exogenous race reform across specific institutions.  I utilize the dataset of medical trainees with their training institutions and specialities from my job market paper. I add to this dataset information on the members of the recruitment committees, obtained from their respective training institutions. I further include details on work schedules, employment policies and benefits, compensation and leave structures for each trainee, based on their training institution. I predict the races of the medical trainees and recruitment committee members from their full names. This analysis can shed light on the unstudied role of recruitment committees relative to other workplace policies in advancing racial equity among medical trainees.
 
-### **"Network effects in the hiring of medical trainees"**
+#### **"Network effects in the hiring of medical trainees"**
 
-### **"Welfare Ranking of Alternative Export Taxes Revisited" (with Dr. Rupayan Pal) (Pre-Phd)**
+#### **"Welfare Ranking of Alternative Export Taxes Revisited" (with Dr. Rupayan Pal) (Pre-Phd)**
 
-### **"Strategic  Trade  Policy  for  Network  Goods  Oligopolies"  (with Dr. Rupayan  Pal) (Pre-Phd)**
+#### **"Strategic  Trade  Policy  for  Network  Goods  Oligopolies"  (with Dr. Rupayan  Pal) (Pre-Phd)**
 
 
