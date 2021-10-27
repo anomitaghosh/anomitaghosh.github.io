@@ -61,8 +61,8 @@ a{
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  text-decoration: #018fb3;
-  background-color: #018fb3;
+  text-decoration: #00eeff;
+  background-color: #00eeff;
 }
 
 .navbar-inverse .navbar-brand {
