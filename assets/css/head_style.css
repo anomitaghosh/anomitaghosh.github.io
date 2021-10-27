@@ -25,11 +25,11 @@ h2, h4{
 }
 
 .a1 {
-  color: #E87722;
+  color: #01cad1;
 }
 
 a{
-  color: #E87722;
+  color: #01cad1;
 }
 
 
@@ -54,15 +54,15 @@ a{
 
 .navbar-color{
     background-color: #13294b;;
-    border-color: #E87722;
-    font-color: #E87722;
-    color: #E87722;
+    border-color: #01cad1;
+    font-color: #01cad1;
+    color: #01cad1;
 }
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  text-decoration: #E87722;
-  background-color: #E87722;
+  text-decoration: #01cad1;
+  background-color: #01cad1;
 }
 
 .navbar-inverse .navbar-brand {
@@ -89,10 +89,10 @@ a{
 }
 
 .navbar .navbar-nav > li > a:hover {
-  color: #E87722;
+  color: #01cad1;
 }
 
-.collapse, .navbar-collapse{ color: #E87722; }
+.collapse, .navbar-collapse{ color: #01cad1; }
 
 .img-portfolio {
     margin-bottom: 30px;
