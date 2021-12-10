@@ -38,7 +38,7 @@ Doctors and medical trainees of certain racial backgrounds - notably African Ame
   
 #### **"Network effects in the hiring of medical trainees"**
 
-#### **"Information externalities due to program rollout"**
+#### **"Optimal duration of supply-side incentives"**
 
 #### **"Welfare Ranking of Alternative Export Taxes Revisited" (with Dr. Rupayan Pal) (Pre-Phd)**
 
