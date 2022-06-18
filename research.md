@@ -2,7 +2,7 @@
 layout: secondary_pages
 ---
 
-#### [**"Developing incentives to move physicians: Longitudinal evidence from loan repayment programs"**](researchpapers/Anomita_Ghoshjmp.pdf)
+#### [**"Persistence in physicians' location: Longitudinal evidence from decentralised hiring programs"**](researchpapers/Anomita_Ghoshjmp.pdf)
 
 <p style="font-size:0.8em">Do temporary labor supply programs cause physicians to move to and stay in undesirable areas? To what extent do these programs improve the health of the elderly population in those areas? I investigate these questions by studying state and local loan repayment programs for new eligible physicians which was rolled out over the last four decades in hundreds of counties across US states. Leveraging a new longitudinal dataset that tracks all physicians from medical school to mid-career, and exploiting both space and time variation, I find that these policies increase the number of physicians by 5% in treated counties relative to untreated counties in the state. The inflows of new physicians are driven by higher paying eligible specialities. The program continues to influence physicians' location decisions even after it ends: I observe only a small 1.2 percentage point decline in a new physician's likelihood of staying in the treated county one year after the minimum obligation period. The program modestly spurs trainees to enter eligible specialities in treated states by substituting away from ineligible specialities. Treated counties also see the elderly increase their visits to physicians while reducing those to the emergency rooms. Using richer patient level data from California, I demonstrate that these results are not driven by selective admission of patients to treated hospitals.
 </p>
