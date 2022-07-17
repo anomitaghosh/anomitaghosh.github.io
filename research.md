@@ -38,7 +38,7 @@ Doctors and medical trainees of certain racial backgrounds - mainly African Amer
   
 #### **"Network effects in the hiring of medical trainees"**
 
-#### **"Optimal design of supply side incentives with repeated learning"**
+#### **"Border region and education of undocumented students"**
 
 #### **"Welfare Ranking of Alternative Export Taxes Revisited" (with Dr. Rupayan Pal) (Pre-Phd)**
 
