@@ -10,9 +10,9 @@ I am a PhD Candidate in Economics at the University of Illinois, Urbana-Champaig
 
 <br>
 
-## Contact Information
+<!-- ## Contact Information -->
 
-#### Address: 214 David Kinley Hall, 1407 W. Gregory Dr., Urbana IL 61801 
+<!-- #### Address: 214 David Kinley Hall, 1407 W. Gregory Dr., Urbana IL 61801 -->
 #### Email:  
 - [anomita2@illinois.edu](anomita2@illinois.edu)  
 - [anomitaghosh18@gmail.com](anomitaghosh18@gmail.com)
