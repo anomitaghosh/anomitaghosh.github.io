@@ -4,7 +4,7 @@
 
 <br>
 
-### Contact Information:
-Address: **214 David Kinley Hall, 1407 W. Gregory Dr., Urbana IL 61801**
+<!-- ### Contact Information:-->
+<!-- Address: **214 David Kinley Hall, 1407 W. Gregory Dr., Urbana IL 61801** -->
 
 Email: anomita2@illinois.edu
