@@ -2,7 +2,7 @@
 layout: secondary_pages
 ---
 
-#### [**"Persistence in physicians' location: Long-run evidence from decentralised hiring programs"**](researchpapers/Anomita_Ghoshjmp.pdf)
+#### [**"Persistence in physicians' location: Long-run evidence from decentralised hiring programs"**](researchpapers/Anomita_Ghoshjmp.pdf) (New draft coming soon)
 
 <p style="font-size:0.8em">Do temporary labor supply programs cause physicians to move to and stay in undesirable areas? To what extent do these programs improve the health of the elderly population in those areas? I investigate these questions by studying state and local loan repayment programs for new eligible physicians which was rolled out over the last four decades in hundreds of counties across US states. Leveraging a new longitudinal dataset that tracks all physicians from medical school to mid-career, and exploiting both space and time variation, I find that these policies increase the number of physicians by 5% in treated counties relative to untreated counties in the state. The inflows of new physicians are driven by higher paying eligible specialities. The program continues to influence physicians' location decisions even after it ends: I observe only a small 1.2 percentage point decline in a new physician's likelihood of staying in the treated county one year after the minimum obligation period. The program modestly spurs trainees to enter eligible specialities in treated states by substituting away from ineligible specialities. Treated counties also see the elderly increase their visits to physicians while reducing those to the emergency rooms. Using richer patient level data from California, I demonstrate that these results are not driven by selective admission of patients to treated hospitals.
 </p>
@@ -16,7 +16,7 @@ in these policies in a difference-in-differences framework and comparing within 
 </p>
 <hr>
 
-#### **“Are female leaders good for education? Evidence from India: A comment”** (Draft coming soon)
+#### **“Are female leaders good for education? Evidence from India: A comment”** (Draft available on request)
 
 <p style="font-size:0.8em">
 This comment makes two main observations about Clots-Figueras’(2012) paper on female leaders and education in India. First, after correcting for multiple outcomes, the presence of female politicians does not seem to have a significant effect on the fraction of villages having primary schools in urban areas. More specifically, I control for the False Discovery Rate using the procedures of Benjamini and Hochberg (1995) and Benjamini, Krieger and Yekutieli(2006). My findings reveal that, although increasing female leadership does improve primary educational attainment in urban areas, it may not be through the channel of constructing more primary schools in those areas, as suggested by the author. Second, to assess the credibility of the regression discontinuity design in section D of the paper, I apply the newly developed and more powerful Canay Kamat (2018) permutation test for the null hypothesis that the distribution of baseline covariates is continuous at the cutoff. I demonstrate that the continuity of the distribution of baseline covariates is violated at the cutoff for a majority of covariates in urban areas. This provides suggestive evidence that some features of the distribution of baseline covariates, other than the mean, may be discontinuous at the cutoff. Despite these two observations, the results in Clots-Figueras (2012) are largely robust to alternative specifications and strategies.
