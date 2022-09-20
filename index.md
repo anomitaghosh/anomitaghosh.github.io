@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-I am a PhD Candidate in Economics at the University of Illinois, Urbana-Champaign. My primary research interests are in Labor Economics, Public Economics, Applied Econometrics. I study how individuals and institutions respond to state and local policies that aim to promote inclusivity in labor markets.
+I am a PhD Candidate in Economics at the University of Illinois, Urbana-Champaign. My primary research interests are in Labor Economics, Public Economics, Applied Econometrics. Broadly, I study how individuals and institutions respond to state and local policies that aim to promote inclusivity in labor markets. Specifically, I focus on immigration policies, non-wage benefits policies, public sector strikes, network effects in hiring, and the role of evaluators in public sector hiring - in the context of developed countries.
 
  
 
