@@ -23,22 +23,22 @@ Clots-Figueras(2012) studies how politicians' gender affects primary educational
 <hr> 
 
 ### Selected Work in Progress
-#### [**“Spillover effects from short-duration strikes: Evidence using high frequency data”**]
+#### **“Spillover effects from short-duration strikes: Evidence using high frequency data”**
 
 <p style="font-size:0.8em">
 Work stoppage in the health care sector is a serious concern. It disrupts the timely delivery of health care services and thereby harms patients' health. During the period 2005-2017, there were 161 strikes in the California health care sector. These strikes were of much shorter duration (lasting on average for less than 10 days), relative to the nurses' strikes in New York state considered by Gruber and Kleiner(2012). Additionally, unlike Gruber and Kleiner, I consider variation in the types of health care workers (i.e. nurses, engineers, technicians) covered by these brief strikes. Utilizing daily patient level data from all hospitals in California over the period 2004-2017 and exploiting the variation in strike timing across hospitals in a difference-in-differences and event study design, I analyze the spillover effects of these short strikes on the nearby, non-striking hospitals. Specifically, I consider admission, readmission, mortality, emergency room use and intensity of care outcomes. Based on the residential locations of the patients, I also explore changes in patients' admissions to a neighboring hospital if the striking hospital is closer to their home vs if it is farther from their home. I also examine whether these short strikes benefit the striking hospitals in the long run in terms of productivity, and how these benefits(if any) in turn affect the productivity of non-striking hospitals in close proximity. Overall, this project aims to determine the winners and losers of short-term negative shocks to the healthcare sector in the US, a relatively understudied area.
 </p>
 <hr>
 
-#### [**"The role of recruitment committees in the selection of medical residents"**]
+#### **"The role of recruitment committees in the selection of medical residents"**
 
 <p style="font-size:0.8em">
 Doctors and medical trainees of certain racial backgrounds - mainly African Americans, Hispanic, and American Indians - are under-represented in medicine compared to the larger population. This lack of racial equity is an important issue, given that, similar race between doctors and patients leads to improved communication and higher demand for preventive care. Moreover, doctors from underrepresented minorities have a higher likelihood of serving underserved and uninsured populations. It has been suggested in the medical literature that a lack of minority faculty on resident selection committees is one of several factors contributing to lower racial equity among trainees. To test this claim, I leverage institution level variation in a policy that mandated change in the evaluation criteria for trainees. I build a dataset of medical trainees with their training institutions and specialities, along with information on the members of the recruitment committees. Using a query based method, I extract details on trainees' work schedules, employment policies and benefits, compensation and leave structures from the official records. This analysis can shed light on the unstudied role of recruitment committees - considering the degree of their human bias and private information - in advancing racial equity among medical trainees.
 </p>
   
-#### [**"Network effects in the hiring of medical trainees"**]
+#### **"Network effects in the hiring of medical trainees"**
 
-#### [**"Border region and education of undocumented students"**]
+#### **"Border region and education of undocumented students"**
 
 #### **"Welfare Ranking of Alternative Export Taxes Revisited" (with Dr. Rupayan Pal) (Pre-Phd)**
 
