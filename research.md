@@ -12,14 +12,16 @@ layout: secondary_pages
 
 <p style="font-size:0.8em">
 I investigate how allowing lower tuition for undocumented students at public colleges improves education outcomes, changes institutional pricing patterns, and lowers long-run fertility rates. I use administrative data and a residual method to exactly calculate the number of undocumented students each institution in the pre-reform period. Exploiting the reform's staggered adoption across states and time, as well as variation in the intensity of exposure to the reform across institutions -- I find a higher enrollment of undocumented students at the treated states' 'more exposed' community colleges. Transfer, technical and vocational colleges drive the enrollment outcomes. In contrast to enrollment, there is strong evidence of higher graduation of undocumented students at both 2-year and 4-year colleges in the treated states. I also observe that students at these 'more exposed' institutions experience modest tuition reductions. There is negligible displacement of Americans in treated public colleges. Undocumented females reduce their fertility in response to higher educational attainment -- driven by delayed marriage and household formation decisions. My findings indicate that the education and fertility benefits to undocumented students come with no significant unintended costs to other students. I estimate that the reform costs around $16.4 million per year on average.
-
+</p>
+<hr>
 
 #### **“Are female leaders good for education? Evidence from India: A comment”** (Draft available on request)
 
 <p style="font-size:0.8em">
 Clots-Figueras(2012) studies how politicians' gender affects primary educational attainment in India. Exploiting close races to identify the causal effect of female politicians, they find higher educational achievement of primary school students in urban districts with more female politicians. I successfully reproduce their results, using primarily NSS data linked to data on electoral outcomes. However, I provide three observations on their paper. First, after correcting for multiple outcomes, female politicians do not seem to build more primary schools in urban areas -- an important mechanism explaining their result. Second, in their regression discontinuity design, continuity of the distribution of baseline covariates is violated at the cutoff for majority of the covariates in urban areas -- when the more powerful Kamat(2017) permutation test is applied. Third, the positive effects in urban areas become weaker and largely insignificant when Rehavi (2007)'s identification strategy is used.
 </p>
-  
+<hr> 
+
 ### Selected Work in Progress
 #### **“Spillover effects from short-duration strikes: Evidence using high frequency data”**
 
