@@ -15,12 +15,12 @@ I investigate how allowing lower tuition for undocumented students at public col
 </p>
 <hr>
 
-#### [**"Are female leaders good for education? Evidence from India: A comment"**] (Draft available on request)
+#### **"Are female leaders good for education? Evidence from India: A comment"** (Draft available on request)
 
 <p style="font-size:0.8em">
 Clots-Figueras(2012) studies how politicians' gender affects primary educational attainment in India. Exploiting close races to identify the causal effect of female politicians, they find higher educational achievement of primary school students in urban districts with more female politicians. I successfully reproduce their results, using primarily NSS data linked to data on electoral outcomes. However, I provide three observations on their paper. First, after correcting for multiple outcomes, female politicians do not seem to build more primary schools in urban areas -- an important mechanism explaining their result. Second, in their regression discontinuity design, continuity of the distribution of baseline covariates is violated at the cutoff for majority of the covariates in urban areas -- when the more powerful Kamat(2017) permutation test is applied. Third, the positive effects in urban areas become weaker and largely insignificant when Rehavi (2007)'s identification strategy is used.
 </p>
-<hr> 
+ 
 
 ### Selected Work in Progress
 #### **“Spillover effects from short-duration strikes: Evidence using high frequency data”**
@@ -28,7 +28,7 @@ Clots-Figueras(2012) studies how politicians' gender affects primary educational
 <p style="font-size:0.8em">
 Work stoppage in the health care sector is a serious concern. It disrupts the timely delivery of health care services and thereby harms patients' health. During the period 2005-2017, there were 161 strikes in the California health care sector. These strikes were of much shorter duration (lasting on average for less than 10 days), relative to the nurses' strikes in New York state considered by Gruber and Kleiner(2012). Additionally, unlike Gruber and Kleiner, I consider variation in the types of health care workers (i.e. nurses, engineers, technicians) covered by these brief strikes. Utilizing daily patient level data from all hospitals in California over the period 2004-2017 and exploiting the variation in strike timing across hospitals in a difference-in-differences and event study design, I analyze the spillover effects of these short strikes on the nearby, non-striking hospitals. Specifically, I consider admission, readmission, mortality, emergency room use and intensity of care outcomes. Based on the residential locations of the patients, I also explore changes in patients' admissions to a neighboring hospital if the striking hospital is closer to their home vs if it is farther from their home. I also examine whether these short strikes benefit the striking hospitals in the long run in terms of productivity, and how these benefits(if any) in turn affect the productivity of non-striking hospitals in close proximity. Overall, this project aims to determine the winners and losers of short-term negative shocks to the healthcare sector in the US, a relatively understudied area.
 </p>
-<hr>
+
 
 #### **"The role of recruitment committees in the selection of medical residents"**
 
