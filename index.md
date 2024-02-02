@@ -4,6 +4,7 @@ layout: default
 
 
 Hello! Welcome to my website.
+
 I am an Assistant Professor in the Department of Economic Sciences at the Indian Institute of Science, Education, and Research, Bhopal (IISERB). My primary research interests are in Labor Economics, and Public Economics. Broadly, I study how individuals and institutions respond to state and local policies that aim to promote inclusivity in the labor markets. Specifically, I focus on immigration policies, non-wage benefits policies, public sector strikes, network effects in hiring, and the role of decision-makers in public sector hiring -- in the context of developed countries. I am also working on topics at the intersection of gender, environment, and firms in developing countries.
 
 I received my Phd in Economics from the University of Illinois, Urbana-Champaign in 2022. Prior to joining IISERB, I was an Associate Fellow on the National Data Innovation Center (NDIC) team at the National Council of Applied Economic Research (NCAER).
