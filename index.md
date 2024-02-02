@@ -10,7 +10,7 @@ I am an Assistant Professor in the Department of Economic Sciences at the Indian
 I received my Phd in Economics from the University of Illinois, Urbana-Champaign in 2022. Prior to joining IISERB, I was an Associate Fellow on the National Data Innovation Center (NDIC) team at the National Council of Applied Economic Research (NCAER).
 
 
-Email: anomitaghosh18@gmail.com
+<!-- Email: anomitaghosh18@gmail.com -->
 
  
 
