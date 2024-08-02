@@ -24,3 +24,6 @@ I received my Phd in Economics from the University of Illinois, Urbana-Champaign
 
 <!--- [anomita2@illinois.edu](anomita2@illinois.edu)  -->
 <!--- [anomitaghosh18@gmail.com](anomitaghosh18@gmail.com) -->
+
+Office hours: [Appointments](https://calendly.com/anomitameet/15min)
+
