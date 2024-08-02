@@ -20,7 +20,7 @@ I received my Phd in Economics from the University of Illinois, Urbana-Champaign
 <!-- ## Contact Information -->
 
 <!-- #### Address: 214 David Kinley Hall, 1407 W. Gregory Dr., Urbana IL 61801 -->
- Please feel free to get in touch with me at [anomita2@illinois.edu](anomita2@illinois.edu) or [anomitaghosh18@gmail.com](anomitaghosh18@gmail.com)
+ Please feel free to get in touch with me at [anomita@iiserb.ac.in](anomita@iiserb.ac.in) or [anomitaghosh18@gmail.com](anomitaghosh18@gmail.com)
 
 <!--- [anomita2@illinois.edu](anomita2@illinois.edu)  -->
 <!--- [anomitaghosh18@gmail.com](anomitaghosh18@gmail.com) -->
