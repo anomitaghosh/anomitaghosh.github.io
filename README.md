@@ -13,4 +13,4 @@ I received my Phd in Economics from the University of Illinois, Urbana-Champaign
 Email: anomitaghosh18@gmail.com <br>
 Office hours: [Appointments](https://calendly.com/anomitameet/15min)
 
-Announcement: I am actively looking for highly motivated students who want to pursue a Ph.D. in health economics and machine learning. They should have a background in statistics, econometrics, and/or data science. If you are interested, you can write to me at anomita@iiserb.ac.in.
+Announcement: I am looking for highly motivated students interested in pursuing their PhD on topics at the intersection of health economics and machine learning. They should have a background in statistics, econometrics, and/or data science. If you are interested, you can write to me at anomita@iiserb.ac.in.
