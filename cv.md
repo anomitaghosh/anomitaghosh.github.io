@@ -10,6 +10,6 @@ layout: secondary_pages
 <br>
 <br>
 
- <h3 align="center"> My CV is available <a href="./assets/AnomitaCVnew.pdf">here</a>.</h3> 
+ <h3 align="center"> My CV is available <a href="./assets/Anomita_CVlatest.pdf">here</a>.</h3> 
 
 </p>
