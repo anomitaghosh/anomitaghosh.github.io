@@ -43,4 +43,6 @@ Doctors and medical trainees of certain racial backgrounds - mainly African Amer
 
 #### **"Strategic  Trade  Policy  for  Network  Goods  Oligopolies"  (with Dr. Rupayan  Pal) (Pre-Phd)**
 
+**"For the most recent research, please see my CV "**
+
 
