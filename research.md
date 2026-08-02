@@ -14,7 +14,7 @@ layout: secondary_pages
 </p>
 --> 
 
-#### **"Gendered Governance and the Demand for Environmental Protection: Cross National Evidence"**
+#### [**"Gendered Governance and the Demand for Environmental Protection: Cross National Evidence"**]
 </p>
 
 <!-- #### **"Are female leaders good for education? Evidence from India: A comment"** (Draft available on request)
