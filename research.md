@@ -3,7 +3,7 @@ layout: secondary_pages
 ---
 
 ### ***Publications***
-#### ** Gender Differences in Economics Seminars (with Pascaline Dupas, Amy Handlan, Alicia Modestino, Muriel Niederle, Mateo Sere, Haoyu Sheng, Justin Wolfers, & Seminar Dynamics Collective) (American Economic Review)
+#### **"Gender Differences in Economics Seminars (with Pascaline Dupas, Amy Handlan, Alicia Modestino, Muriel Niederle, Mateo Sere, Haoyu Sheng, Justin Wolfers, & Seminar Dynamics Collective) (American Economic Review)
 
 #### **"Welfare Ranking of Alternative Export Taxes Revisited" (with Dr. Rupayan Pal) (Pre-Phd)** (Economics Bulletin)
 
@@ -19,7 +19,7 @@ layout: secondary_pages
 </p>
 -->
 
-#### [**"Intended and unintended effects of state tuition benefits to undocumented students : Institution level evidence"**](researchpapers/Anomita_GhoshUInew.pdf) (R\&R)
+#### [**"Intended and unintended effects of state tuition benefits to undocumented students : Institution level evidence"**](researchpapers/Anomita_GhoshUInew.pdf) (R&R)
 
 <!-- <p style="font-size:0.8em"> I investigate how allowing lower tuition for undocumented students at public colleges improves education outcomes, and changes institutional pricing patterns. I use administrative data and a residual method to quantify the actual number of undocumented students at school level in the pre-reform period. Exploiting the reform's staggered adoption across states and time, as well as variation in the intensity of exposure to the reform across institutions -- I find a higher enrollment of undocumented students at the treated states' 'more exposed' community colleges. Transfer, technical and vocational colleges drive the enrollment outcomes. In contrast to enrollment, there is strong evidence of higher graduation of undocumented students at both 2-year and 4-year colleges in the treated states. I also observe that students at these `more exposed' institutions experience modest tuition reductions. There is negligible displacement of Americans in treated public colleges. My findings indicate that the education benefits to undocumented students come with no significant unintended costs to other students. I estimate that the reform costs around \$16.4 million per year on average.
 </p>
