@@ -10,7 +10,6 @@ layout: secondary_pages
 #### **Strategic  Trade  Policy  for  Network  Goods  Oligopolies  (with Dr. Rupayan  Pal) (Pre-Phd)** (International Review of Economics and Finance)
 
 
-#### **Spillover effects from short-duration strikes: Evidence using high frequency data**
 
 ### ***Working Papers***
 #### [**Health Consequences of Persistence in Physicians’ Locations: Evidence from Decentralised Loan Repayment Programs**](researchpapers/Anomita_jmpnew1.pdf) (Under Review)
