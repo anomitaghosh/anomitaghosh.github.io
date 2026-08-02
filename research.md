@@ -3,14 +3,14 @@ layout: secondary_pages
 ---
 
 ### ***Publications***
-#### **"Gender Differences in Economics Seminars (with Pascaline Dupas, Amy Handlan, Alicia Modestino, Muriel Niederle, Mateo Sere, Haoyu Sheng, Justin Wolfers, & Seminar Dynamics Collective) (American Economic Review)
+#### **Gender Differences in Economics Seminars (with Pascaline Dupas, Amy Handlan, Alicia Modestino, Muriel Niederle, Mateo Sere, Haoyu Sheng, Justin Wolfers, & Seminar Dynamics Collective)** (American Economic Review)
 
-#### **"Welfare Ranking of Alternative Export Taxes Revisited" (with Dr. Rupayan Pal) (Pre-Phd)** (Economics Bulletin)
+#### **Welfare Ranking of Alternative Export Taxes Revisited (with Dr. Rupayan Pal) (Pre-Phd)** (Economics Bulletin)
 
-#### **"Strategic  Trade  Policy  for  Network  Goods  Oligopolies"  (with Dr. Rupayan  Pal) (Pre-Phd)** (International Review of Economics and Finance)
+#### **Strategic  Trade  Policy  for  Network  Goods  Oligopolies  (with Dr. Rupayan  Pal) (Pre-Phd)** (International Review of Economics and Finance)
 
 
-#### **“Spillover effects from short-duration strikes: Evidence using high frequency data”**
+#### **Spillover effects from short-duration strikes: Evidence using high frequency data**
 
 ### ***Working Papers***
 #### [**"Health Consequences of Persistence in Physicians’ Locations: Evidence from Decentralised Loan Repayment Programs"**](researchpapers/Anomita_jmpnew1.pdf) (Under Review)
