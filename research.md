@@ -52,9 +52,12 @@ Work stoppage in the health care sector is a serious concern. It disrupts the ti
  
 #### **Network effects in the hiring of medical trainees**
 
+
 #### **Border region and education of undocumented students**
 
+
 #### **Air Quality in Real-Time: Causal Evidence on Institutional Responses in India (Preliminary draft available)**
+
 
 For the most recent research, please see my CV
 
