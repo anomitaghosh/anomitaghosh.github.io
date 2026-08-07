@@ -51,7 +51,9 @@ Work stoppage in the health care sector is a serious concern. It disrupts the ti
 -->  
  
 #### **Network effects in the hiring of medical trainees**
-
+<p style="font-size:0.8em">
+</p>
+ 
 
 #### **Border region and education of undocumented students**
 
