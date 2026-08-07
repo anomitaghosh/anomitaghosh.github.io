@@ -52,21 +52,9 @@ Work stoppage in the health care sector is a serious concern. It disrupts the ti
  
 #### **Network effects in the hiring of medical trainees**
 
-<p style="font-size:0.8em">
-<!-- Doctors and medical trainees of certain racial backgrounds... in advancing racial equity among medical trainees. -->
-</p>
- 
 #### **Border region and education of undocumented students**
 
-<p style="font-size:0.8em">
-<!-- Doctors and medical trainees of certain racial backgrounds... in advancing racial equity among medical trainees. -->
-</p>
-
 #### **Air Quality in Real-Time: Causal Evidence on Institutional Responses in India (Preliminary draft available)**
-
-<p style="font-size:0.8em">
-<!-- Doctors and medical trainees of certain racial backgrounds... in advancing racial equity among medical trainees. -->
-</p>
 
 For the most recent research, please see my CV
 
