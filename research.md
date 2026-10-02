@@ -26,7 +26,7 @@ layout: secondary_pages
 </p>
 --> 
 
-#### **Gendered Governance and the Demand for Environmental Protection: Cross National Evidence**
+#### [**Gendered Governance and Environmental Attitudes: Does Political Agency Matter?**](researchpapers/Genderenvironmentpaper.pdf) 
 
 #### **The Role of Provincial Minimum Wages in Shaping Union Participation: Canadian Evidence (with Khushi Surana)** 
 
